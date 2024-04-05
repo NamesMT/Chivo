@@ -1,5 +1,7 @@
 # Chivo Family
 
+> This fork added "[fonts/DiosChivoMono Nerd Font](./fonts/DiosChivoMono%20Nerd%20Font/README.md)"
+
 **Gatti & Omnibus-Type Team**
 *SIL Open Font License 1.1,*
 *18 fonts, 877 glyphs each variant*
